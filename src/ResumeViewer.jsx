@@ -13,7 +13,7 @@ function ResumeViewer() {
 </button>
 
 <a
-  href="/resume.pdf"
+  href="./resume.pdf"
   download
   className="ml-4 text-indigo-600 underline hover:text-indigo-800"
   target="_blank"
