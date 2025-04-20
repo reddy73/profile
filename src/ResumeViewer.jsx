@@ -13,7 +13,7 @@ function ResumeViewer() {
 </button>
 
 <a
-  href="./resume.pdf"
+  href="./profile/resume.pdf"
   download
   className="ml-4 text-indigo-600 underline hover:text-indigo-800"
   target="_blank"
@@ -25,7 +25,7 @@ function ResumeViewer() {
       {show && (
         <div style={{ height: "80vh", overflow: "auto" }} className="mt-4 w-full h-[80vh] border-2 border-gray-300 rounded">
           <iframe
-            src="/resume.pdf"
+            src="./profile/resume.pdf"
             title="Resume"
             width="100%"
             height="100%"
