@@ -2,8 +2,8 @@ function App() {
   return (
     <div className="container py-5">
       <div className="text-center mb-5">
-        <h1 className="display-4 fw-bold">Raghavendra R</h1>
-        <p className="lead text-muted">Backend Engineer | Java • Spring Boot • Kafka</p>
+        <h1 className="display-4 fw-bold">Raghavendra Reddy</h1>
+        <p className="lead text-muted">Backend Engineer | Java • Spring Boot • Kafka </p>
       </div>
 
       <div className="mb-4 p-4 bg-light rounded">
@@ -42,7 +42,7 @@ function App() {
       </div>
 
       <div className="text-center mt-5">
-        <a href="/resume.pdf" className="btn btn-outline-secondary" target="_blank">View Resume</a>
+        <a href="./resume.pdf" className="btn btn-outline-secondary" target="_blank">View Resume</a>
       </div>
     </div>
   );
